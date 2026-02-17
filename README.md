@@ -33,13 +33,7 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kashish041206&show_icons=true&theme=radical" alt="Kashish's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kashish041206&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
+### 📊 GitHub Streak:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kashish041206&theme=radical" alt="GitHub Streak" />
 </p>
